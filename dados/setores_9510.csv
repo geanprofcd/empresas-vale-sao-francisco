@@ -1,0 +1,529 @@
+codigo_local,local,ano,variavel,setor,valor
+2611101,Petrolina (PE),2022,unidades_locais,Total,13467
+2611101,Petrolina (PE),2022,unidades_locais,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",355
+2611101,Petrolina (PE),2022,unidades_locais,B Indústrias extrativas,34
+2611101,Petrolina (PE),2022,unidades_locais,C Indústrias de transformação,647
+2611101,Petrolina (PE),2022,unidades_locais,D Eletricidade e gás,28
+2611101,Petrolina (PE),2022,unidades_locais,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",43
+2611101,Petrolina (PE),2022,unidades_locais,F Construção,816
+2611101,Petrolina (PE),2022,unidades_locais,G Comércio; reparação de veículos automotores e motocicletas,5119
+2611101,Petrolina (PE),2022,unidades_locais,"H Transporte, armazenagem e correio",433
+2611101,Petrolina (PE),2022,unidades_locais,I Alojamento e alimentação,647
+2611101,Petrolina (PE),2022,unidades_locais,J Informação e comunicação,225
+2611101,Petrolina (PE),2022,unidades_locais,"K Atividades financeiras, de seguros e serviços relacionados",257
+2611101,Petrolina (PE),2022,unidades_locais,L Atividades imobiliárias,228
+2611101,Petrolina (PE),2022,unidades_locais,"M Atividades profissionais, científicas e técnicas",882
+2611101,Petrolina (PE),2022,unidades_locais,N Atividades administrativas e serviços complementares,926
+2611101,Petrolina (PE),2022,unidades_locais,"O Administração pública, defesa e seguridade social",54
+2611101,Petrolina (PE),2022,unidades_locais,P Educação,634
+2611101,Petrolina (PE),2022,unidades_locais,Q Saúde humana e serviços sociais,1069
+2611101,Petrolina (PE),2022,unidades_locais,"R Artes, cultura, esporte e recreação",198
+2611101,Petrolina (PE),2022,unidades_locais,S Outras atividades de serviços,872
+2611101,Petrolina (PE),2022,unidades_locais,T Serviços domésticos,0
+2611101,Petrolina (PE),2022,unidades_locais,U Organismos internacionais e outras instituições extraterritoriais,0
+2611101,Petrolina (PE),2023,unidades_locais,Total,14672
+2611101,Petrolina (PE),2023,unidades_locais,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",374
+2611101,Petrolina (PE),2023,unidades_locais,B Indústrias extrativas,38
+2611101,Petrolina (PE),2023,unidades_locais,C Indústrias de transformação,690
+2611101,Petrolina (PE),2023,unidades_locais,D Eletricidade e gás,29
+2611101,Petrolina (PE),2023,unidades_locais,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",41
+2611101,Petrolina (PE),2023,unidades_locais,F Construção,880
+2611101,Petrolina (PE),2023,unidades_locais,G Comércio; reparação de veículos automotores e motocicletas,5449
+2611101,Petrolina (PE),2023,unidades_locais,"H Transporte, armazenagem e correio",476
+2611101,Petrolina (PE),2023,unidades_locais,I Alojamento e alimentação,733
+2611101,Petrolina (PE),2023,unidades_locais,J Informação e comunicação,245
+2611101,Petrolina (PE),2023,unidades_locais,"K Atividades financeiras, de seguros e serviços relacionados",291
+2611101,Petrolina (PE),2023,unidades_locais,L Atividades imobiliárias,263
+2611101,Petrolina (PE),2023,unidades_locais,"M Atividades profissionais, científicas e técnicas",1000
+2611101,Petrolina (PE),2023,unidades_locais,N Atividades administrativas e serviços complementares,1023
+2611101,Petrolina (PE),2023,unidades_locais,"O Administração pública, defesa e seguridade social",53
+2611101,Petrolina (PE),2023,unidades_locais,P Educação,676
+2611101,Petrolina (PE),2023,unidades_locais,Q Saúde humana e serviços sociais,1241
+2611101,Petrolina (PE),2023,unidades_locais,"R Artes, cultura, esporte e recreação",222
+2611101,Petrolina (PE),2023,unidades_locais,S Outras atividades de serviços,948
+2611101,Petrolina (PE),2023,unidades_locais,T Serviços domésticos,0
+2611101,Petrolina (PE),2023,unidades_locais,U Organismos internacionais e outras instituições extraterritoriais,0
+2611101,Petrolina (PE),2024,unidades_locais,Total,15881
+2611101,Petrolina (PE),2024,unidades_locais,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",402
+2611101,Petrolina (PE),2024,unidades_locais,B Indústrias extrativas,29
+2611101,Petrolina (PE),2024,unidades_locais,C Indústrias de transformação,743
+2611101,Petrolina (PE),2024,unidades_locais,D Eletricidade e gás,21
+2611101,Petrolina (PE),2024,unidades_locais,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",39
+2611101,Petrolina (PE),2024,unidades_locais,F Construção,952
+2611101,Petrolina (PE),2024,unidades_locais,G Comércio; reparação de veículos automotores e motocicletas,5692
+2611101,Petrolina (PE),2024,unidades_locais,"H Transporte, armazenagem e correio",503
+2611101,Petrolina (PE),2024,unidades_locais,I Alojamento e alimentação,776
+2611101,Petrolina (PE),2024,unidades_locais,J Informação e comunicação,282
+2611101,Petrolina (PE),2024,unidades_locais,"K Atividades financeiras, de seguros e serviços relacionados",332
+2611101,Petrolina (PE),2024,unidades_locais,L Atividades imobiliárias,310
+2611101,Petrolina (PE),2024,unidades_locais,"M Atividades profissionais, científicas e técnicas",1162
+2611101,Petrolina (PE),2024,unidades_locais,N Atividades administrativas e serviços complementares,1124
+2611101,Petrolina (PE),2024,unidades_locais,"O Administração pública, defesa e seguridade social",54
+2611101,Petrolina (PE),2024,unidades_locais,P Educação,720
+2611101,Petrolina (PE),2024,unidades_locais,Q Saúde humana e serviços sociais,1499
+2611101,Petrolina (PE),2024,unidades_locais,"R Artes, cultura, esporte e recreação",247
+2611101,Petrolina (PE),2024,unidades_locais,S Outras atividades de serviços,994
+2611101,Petrolina (PE),2024,unidades_locais,T Serviços domésticos,0
+2611101,Petrolina (PE),2024,unidades_locais,U Organismos internacionais e outras instituições extraterritoriais,0
+2611101,Petrolina (PE),2022,pessoal_ocupado,Total,90148
+2611101,Petrolina (PE),2022,pessoal_ocupado,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",14157
+2611101,Petrolina (PE),2022,pessoal_ocupado,B Indústrias extrativas,88
+2611101,Petrolina (PE),2022,pessoal_ocupado,C Indústrias de transformação,4929
+2611101,Petrolina (PE),2022,pessoal_ocupado,D Eletricidade e gás,246
+2611101,Petrolina (PE),2022,pessoal_ocupado,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",205
+2611101,Petrolina (PE),2022,pessoal_ocupado,F Construção,2815
+2611101,Petrolina (PE),2022,pessoal_ocupado,G Comércio; reparação de veículos automotores e motocicletas,24042
+2611101,Petrolina (PE),2022,pessoal_ocupado,"H Transporte, armazenagem e correio",2807
+2611101,Petrolina (PE),2022,pessoal_ocupado,I Alojamento e alimentação,3702
+2611101,Petrolina (PE),2022,pessoal_ocupado,J Informação e comunicação,952
+2611101,Petrolina (PE),2022,pessoal_ocupado,"K Atividades financeiras, de seguros e serviços relacionados",1268
+2611101,Petrolina (PE),2022,pessoal_ocupado,L Atividades imobiliárias,640
+2611101,Petrolina (PE),2022,pessoal_ocupado,"M Atividades profissionais, científicas e técnicas",2858
+2611101,Petrolina (PE),2022,pessoal_ocupado,N Atividades administrativas e serviços complementares,5227
+2611101,Petrolina (PE),2022,pessoal_ocupado,"O Administração pública, defesa e seguridade social",8685
+2611101,Petrolina (PE),2022,pessoal_ocupado,P Educação,5479
+2611101,Petrolina (PE),2022,pessoal_ocupado,Q Saúde humana e serviços sociais,9545
+2611101,Petrolina (PE),2022,pessoal_ocupado,"R Artes, cultura, esporte e recreação",748
+2611101,Petrolina (PE),2022,pessoal_ocupado,S Outras atividades de serviços,1755
+2611101,Petrolina (PE),2022,pessoal_ocupado,T Serviços domésticos,0
+2611101,Petrolina (PE),2022,pessoal_ocupado,U Organismos internacionais e outras instituições extraterritoriais,0
+2611101,Petrolina (PE),2023,pessoal_ocupado,Total,92944
+2611101,Petrolina (PE),2023,pessoal_ocupado,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",14195
+2611101,Petrolina (PE),2023,pessoal_ocupado,B Indústrias extrativas,137
+2611101,Petrolina (PE),2023,pessoal_ocupado,C Indústrias de transformação,6283
+2611101,Petrolina (PE),2023,pessoal_ocupado,D Eletricidade e gás,227
+2611101,Petrolina (PE),2023,pessoal_ocupado,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",872
+2611101,Petrolina (PE),2023,pessoal_ocupado,F Construção,3029
+2611101,Petrolina (PE),2023,pessoal_ocupado,G Comércio; reparação de veículos automotores e motocicletas,24486
+2611101,Petrolina (PE),2023,pessoal_ocupado,"H Transporte, armazenagem e correio",2680
+2611101,Petrolina (PE),2023,pessoal_ocupado,I Alojamento e alimentação,3983
+2611101,Petrolina (PE),2023,pessoal_ocupado,J Informação e comunicação,1047
+2611101,Petrolina (PE),2023,pessoal_ocupado,"K Atividades financeiras, de seguros e serviços relacionados",1357
+2611101,Petrolina (PE),2023,pessoal_ocupado,L Atividades imobiliárias,661
+2611101,Petrolina (PE),2023,pessoal_ocupado,"M Atividades profissionais, científicas e técnicas",3093
+2611101,Petrolina (PE),2023,pessoal_ocupado,N Atividades administrativas e serviços complementares,5698
+2611101,Petrolina (PE),2023,pessoal_ocupado,"O Administração pública, defesa e seguridade social",7389
+2611101,Petrolina (PE),2023,pessoal_ocupado,P Educação,6013
+2611101,Petrolina (PE),2023,pessoal_ocupado,Q Saúde humana e serviços sociais,9009
+2611101,Petrolina (PE),2023,pessoal_ocupado,"R Artes, cultura, esporte e recreação",908
+2611101,Petrolina (PE),2023,pessoal_ocupado,S Outras atividades de serviços,1877
+2611101,Petrolina (PE),2023,pessoal_ocupado,T Serviços domésticos,0
+2611101,Petrolina (PE),2023,pessoal_ocupado,U Organismos internacionais e outras instituições extraterritoriais,0
+2611101,Petrolina (PE),2024,pessoal_ocupado,Total,101540
+2611101,Petrolina (PE),2024,pessoal_ocupado,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",14848
+2611101,Petrolina (PE),2024,pessoal_ocupado,B Indústrias extrativas,116
+2611101,Petrolina (PE),2024,pessoal_ocupado,C Indústrias de transformação,6494
+2611101,Petrolina (PE),2024,pessoal_ocupado,D Eletricidade e gás,208
+2611101,Petrolina (PE),2024,pessoal_ocupado,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",1031
+2611101,Petrolina (PE),2024,pessoal_ocupado,F Construção,3053
+2611101,Petrolina (PE),2024,pessoal_ocupado,G Comércio; reparação de veículos automotores e motocicletas,25807
+2611101,Petrolina (PE),2024,pessoal_ocupado,"H Transporte, armazenagem e correio",2838
+2611101,Petrolina (PE),2024,pessoal_ocupado,I Alojamento e alimentação,4149
+2611101,Petrolina (PE),2024,pessoal_ocupado,J Informação e comunicação,1103
+2611101,Petrolina (PE),2024,pessoal_ocupado,"K Atividades financeiras, de seguros e serviços relacionados",1459
+2611101,Petrolina (PE),2024,pessoal_ocupado,L Atividades imobiliárias,823
+2611101,Petrolina (PE),2024,pessoal_ocupado,"M Atividades profissionais, científicas e técnicas",3543
+2611101,Petrolina (PE),2024,pessoal_ocupado,N Atividades administrativas e serviços complementares,6351
+2611101,Petrolina (PE),2024,pessoal_ocupado,"O Administração pública, defesa e seguridade social",9660
+2611101,Petrolina (PE),2024,pessoal_ocupado,P Educação,6298
+2611101,Petrolina (PE),2024,pessoal_ocupado,Q Saúde humana e serviços sociais,10775
+2611101,Petrolina (PE),2024,pessoal_ocupado,"R Artes, cultura, esporte e recreação",1090
+2611101,Petrolina (PE),2024,pessoal_ocupado,S Outras atividades de serviços,1894
+2611101,Petrolina (PE),2024,pessoal_ocupado,T Serviços domésticos,0
+2611101,Petrolina (PE),2024,pessoal_ocupado,U Organismos internacionais e outras instituições extraterritoriais,0
+2918407,Juazeiro (BA),2022,unidades_locais,Total,7324
+2918407,Juazeiro (BA),2022,unidades_locais,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",164
+2918407,Juazeiro (BA),2022,unidades_locais,B Indústrias extrativas,36
+2918407,Juazeiro (BA),2022,unidades_locais,C Indústrias de transformação,339
+2918407,Juazeiro (BA),2022,unidades_locais,D Eletricidade e gás,36
+2918407,Juazeiro (BA),2022,unidades_locais,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",32
+2918407,Juazeiro (BA),2022,unidades_locais,F Construção,313
+2918407,Juazeiro (BA),2022,unidades_locais,G Comércio; reparação de veículos automotores e motocicletas,3306
+2918407,Juazeiro (BA),2022,unidades_locais,"H Transporte, armazenagem e correio",271
+2918407,Juazeiro (BA),2022,unidades_locais,I Alojamento e alimentação,324
+2918407,Juazeiro (BA),2022,unidades_locais,J Informação e comunicação,122
+2918407,Juazeiro (BA),2022,unidades_locais,"K Atividades financeiras, de seguros e serviços relacionados",76
+2918407,Juazeiro (BA),2022,unidades_locais,L Atividades imobiliárias,65
+2918407,Juazeiro (BA),2022,unidades_locais,"M Atividades profissionais, científicas e técnicas",391
+2918407,Juazeiro (BA),2022,unidades_locais,N Atividades administrativas e serviços complementares,388
+2918407,Juazeiro (BA),2022,unidades_locais,"O Administração pública, defesa e seguridade social",16
+2918407,Juazeiro (BA),2022,unidades_locais,P Educação,352
+2918407,Juazeiro (BA),2022,unidades_locais,Q Saúde humana e serviços sociais,433
+2918407,Juazeiro (BA),2022,unidades_locais,"R Artes, cultura, esporte e recreação",98
+2918407,Juazeiro (BA),2022,unidades_locais,S Outras atividades de serviços,562
+2918407,Juazeiro (BA),2022,unidades_locais,T Serviços domésticos,0
+2918407,Juazeiro (BA),2022,unidades_locais,U Organismos internacionais e outras instituições extraterritoriais,0
+2918407,Juazeiro (BA),2023,unidades_locais,Total,7856
+2918407,Juazeiro (BA),2023,unidades_locais,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",179
+2918407,Juazeiro (BA),2023,unidades_locais,B Indústrias extrativas,35
+2918407,Juazeiro (BA),2023,unidades_locais,C Indústrias de transformação,371
+2918407,Juazeiro (BA),2023,unidades_locais,D Eletricidade e gás,47
+2918407,Juazeiro (BA),2023,unidades_locais,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",36
+2918407,Juazeiro (BA),2023,unidades_locais,F Construção,340
+2918407,Juazeiro (BA),2023,unidades_locais,G Comércio; reparação de veículos automotores e motocicletas,3503
+2918407,Juazeiro (BA),2023,unidades_locais,"H Transporte, armazenagem e correio",298
+2918407,Juazeiro (BA),2023,unidades_locais,I Alojamento e alimentação,359
+2918407,Juazeiro (BA),2023,unidades_locais,J Informação e comunicação,135
+2918407,Juazeiro (BA),2023,unidades_locais,"K Atividades financeiras, de seguros e serviços relacionados",85
+2918407,Juazeiro (BA),2023,unidades_locais,L Atividades imobiliárias,72
+2918407,Juazeiro (BA),2023,unidades_locais,"M Atividades profissionais, científicas e técnicas",442
+2918407,Juazeiro (BA),2023,unidades_locais,N Atividades administrativas e serviços complementares,412
+2918407,Juazeiro (BA),2023,unidades_locais,"O Administração pública, defesa e seguridade social",25
+2918407,Juazeiro (BA),2023,unidades_locais,P Educação,365
+2918407,Juazeiro (BA),2023,unidades_locais,Q Saúde humana e serviços sociais,478
+2918407,Juazeiro (BA),2023,unidades_locais,"R Artes, cultura, esporte e recreação",103
+2918407,Juazeiro (BA),2023,unidades_locais,S Outras atividades de serviços,571
+2918407,Juazeiro (BA),2023,unidades_locais,T Serviços domésticos,0
+2918407,Juazeiro (BA),2023,unidades_locais,U Organismos internacionais e outras instituições extraterritoriais,0
+2918407,Juazeiro (BA),2024,unidades_locais,Total,8182
+2918407,Juazeiro (BA),2024,unidades_locais,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",207
+2918407,Juazeiro (BA),2024,unidades_locais,B Indústrias extrativas,35
+2918407,Juazeiro (BA),2024,unidades_locais,C Indústrias de transformação,378
+2918407,Juazeiro (BA),2024,unidades_locais,D Eletricidade e gás,61
+2918407,Juazeiro (BA),2024,unidades_locais,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",44
+2918407,Juazeiro (BA),2024,unidades_locais,F Construção,383
+2918407,Juazeiro (BA),2024,unidades_locais,G Comércio; reparação de veículos automotores e motocicletas,3549
+2918407,Juazeiro (BA),2024,unidades_locais,"H Transporte, armazenagem e correio",311
+2918407,Juazeiro (BA),2024,unidades_locais,I Alojamento e alimentação,368
+2918407,Juazeiro (BA),2024,unidades_locais,J Informação e comunicação,141
+2918407,Juazeiro (BA),2024,unidades_locais,"K Atividades financeiras, de seguros e serviços relacionados",99
+2918407,Juazeiro (BA),2024,unidades_locais,L Atividades imobiliárias,86
+2918407,Juazeiro (BA),2024,unidades_locais,"M Atividades profissionais, científicas e técnicas",478
+2918407,Juazeiro (BA),2024,unidades_locais,N Atividades administrativas e serviços complementares,423
+2918407,Juazeiro (BA),2024,unidades_locais,"O Administração pública, defesa e seguridade social",24
+2918407,Juazeiro (BA),2024,unidades_locais,P Educação,367
+2918407,Juazeiro (BA),2024,unidades_locais,Q Saúde humana e serviços sociais,535
+2918407,Juazeiro (BA),2024,unidades_locais,"R Artes, cultura, esporte e recreação",116
+2918407,Juazeiro (BA),2024,unidades_locais,S Outras atividades de serviços,577
+2918407,Juazeiro (BA),2024,unidades_locais,T Serviços domésticos,0
+2918407,Juazeiro (BA),2024,unidades_locais,U Organismos internacionais e outras instituições extraterritoriais,0
+2918407,Juazeiro (BA),2022,pessoal_ocupado,Total,48657
+2918407,Juazeiro (BA),2022,pessoal_ocupado,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",6448
+2918407,Juazeiro (BA),2022,pessoal_ocupado,B Indústrias extrativas,573
+2918407,Juazeiro (BA),2022,pessoal_ocupado,C Indústrias de transformação,5145
+2918407,Juazeiro (BA),2022,pessoal_ocupado,D Eletricidade e gás,277
+2918407,Juazeiro (BA),2022,pessoal_ocupado,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",646
+2918407,Juazeiro (BA),2022,pessoal_ocupado,F Construção,1098
+2918407,Juazeiro (BA),2022,pessoal_ocupado,G Comércio; reparação de veículos automotores e motocicletas,14033
+2918407,Juazeiro (BA),2022,pessoal_ocupado,"H Transporte, armazenagem e correio",1234
+2918407,Juazeiro (BA),2022,pessoal_ocupado,I Alojamento e alimentação,1447
+2918407,Juazeiro (BA),2022,pessoal_ocupado,J Informação e comunicação,531
+2918407,Juazeiro (BA),2022,pessoal_ocupado,"K Atividades financeiras, de seguros e serviços relacionados",404
+2918407,Juazeiro (BA),2022,pessoal_ocupado,L Atividades imobiliárias,192
+2918407,Juazeiro (BA),2022,pessoal_ocupado,"M Atividades profissionais, científicas e técnicas",1155
+2918407,Juazeiro (BA),2022,pessoal_ocupado,N Atividades administrativas e serviços complementares,1320
+2918407,Juazeiro (BA),2022,pessoal_ocupado,"O Administração pública, defesa e seguridade social",8176
+2918407,Juazeiro (BA),2022,pessoal_ocupado,P Educação,1733
+2918407,Juazeiro (BA),2022,pessoal_ocupado,Q Saúde humana e serviços sociais,3114
+2918407,Juazeiro (BA),2022,pessoal_ocupado,"R Artes, cultura, esporte e recreação",275
+2918407,Juazeiro (BA),2022,pessoal_ocupado,S Outras atividades de serviços,856
+2918407,Juazeiro (BA),2022,pessoal_ocupado,T Serviços domésticos,0
+2918407,Juazeiro (BA),2022,pessoal_ocupado,U Organismos internacionais e outras instituições extraterritoriais,0
+2918407,Juazeiro (BA),2023,pessoal_ocupado,Total,51427
+2918407,Juazeiro (BA),2023,pessoal_ocupado,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",7128
+2918407,Juazeiro (BA),2023,pessoal_ocupado,B Indústrias extrativas,602
+2918407,Juazeiro (BA),2023,pessoal_ocupado,C Indústrias de transformação,4737
+2918407,Juazeiro (BA),2023,pessoal_ocupado,D Eletricidade e gás,362
+2918407,Juazeiro (BA),2023,pessoal_ocupado,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",641
+2918407,Juazeiro (BA),2023,pessoal_ocupado,F Construção,1037
+2918407,Juazeiro (BA),2023,pessoal_ocupado,G Comércio; reparação de veículos automotores e motocicletas,13839
+2918407,Juazeiro (BA),2023,pessoal_ocupado,"H Transporte, armazenagem e correio",1313
+2918407,Juazeiro (BA),2023,pessoal_ocupado,I Alojamento e alimentação,1545
+2918407,Juazeiro (BA),2023,pessoal_ocupado,J Informação e comunicação,545
+2918407,Juazeiro (BA),2023,pessoal_ocupado,"K Atividades financeiras, de seguros e serviços relacionados",449
+2918407,Juazeiro (BA),2023,pessoal_ocupado,L Atividades imobiliárias,279
+2918407,Juazeiro (BA),2023,pessoal_ocupado,"M Atividades profissionais, científicas e técnicas",1179
+2918407,Juazeiro (BA),2023,pessoal_ocupado,N Atividades administrativas e serviços complementares,1410
+2918407,Juazeiro (BA),2023,pessoal_ocupado,"O Administração pública, defesa e seguridade social",9828
+2918407,Juazeiro (BA),2023,pessoal_ocupado,P Educação,1838
+2918407,Juazeiro (BA),2023,pessoal_ocupado,Q Saúde humana e serviços sociais,3249
+2918407,Juazeiro (BA),2023,pessoal_ocupado,"R Artes, cultura, esporte e recreação",293
+2918407,Juazeiro (BA),2023,pessoal_ocupado,S Outras atividades de serviços,1153
+2918407,Juazeiro (BA),2023,pessoal_ocupado,T Serviços domésticos,0
+2918407,Juazeiro (BA),2023,pessoal_ocupado,U Organismos internacionais e outras instituições extraterritoriais,0
+2918407,Juazeiro (BA),2024,pessoal_ocupado,Total,52310
+2918407,Juazeiro (BA),2024,pessoal_ocupado,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",7347
+2918407,Juazeiro (BA),2024,pessoal_ocupado,B Indústrias extrativas,621
+2918407,Juazeiro (BA),2024,pessoal_ocupado,C Indústrias de transformação,4824
+2918407,Juazeiro (BA),2024,pessoal_ocupado,D Eletricidade e gás,371
+2918407,Juazeiro (BA),2024,pessoal_ocupado,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",509
+2918407,Juazeiro (BA),2024,pessoal_ocupado,F Construção,994
+2918407,Juazeiro (BA),2024,pessoal_ocupado,G Comércio; reparação de veículos automotores e motocicletas,13844
+2918407,Juazeiro (BA),2024,pessoal_ocupado,"H Transporte, armazenagem e correio",1618
+2918407,Juazeiro (BA),2024,pessoal_ocupado,I Alojamento e alimentação,1575
+2918407,Juazeiro (BA),2024,pessoal_ocupado,J Informação e comunicação,566
+2918407,Juazeiro (BA),2024,pessoal_ocupado,"K Atividades financeiras, de seguros e serviços relacionados",479
+2918407,Juazeiro (BA),2024,pessoal_ocupado,L Atividades imobiliárias,245
+2918407,Juazeiro (BA),2024,pessoal_ocupado,"M Atividades profissionais, científicas e técnicas",1267
+2918407,Juazeiro (BA),2024,pessoal_ocupado,N Atividades administrativas e serviços complementares,1546
+2918407,Juazeiro (BA),2024,pessoal_ocupado,"O Administração pública, defesa e seguridade social",9161
+2918407,Juazeiro (BA),2024,pessoal_ocupado,P Educação,1867
+2918407,Juazeiro (BA),2024,pessoal_ocupado,Q Saúde humana e serviços sociais,3946
+2918407,Juazeiro (BA),2024,pessoal_ocupado,"R Artes, cultura, esporte e recreação",354
+2918407,Juazeiro (BA),2024,pessoal_ocupado,S Outras atividades de serviços,1176
+2918407,Juazeiro (BA),2024,pessoal_ocupado,T Serviços domésticos,0
+2918407,Juazeiro (BA),2024,pessoal_ocupado,U Organismos internacionais e outras instituições extraterritoriais,0
+2907202,Casa Nova (BA),2022,unidades_locais,Total,1222
+2907202,Casa Nova (BA),2022,unidades_locais,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",94
+2907202,Casa Nova (BA),2022,unidades_locais,B Indústrias extrativas,11
+2907202,Casa Nova (BA),2022,unidades_locais,C Indústrias de transformação,32
+2907202,Casa Nova (BA),2022,unidades_locais,D Eletricidade e gás,24
+2907202,Casa Nova (BA),2022,unidades_locais,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",5
+2907202,Casa Nova (BA),2022,unidades_locais,F Construção,31
+2907202,Casa Nova (BA),2022,unidades_locais,G Comércio; reparação de veículos automotores e motocicletas,492
+2907202,Casa Nova (BA),2022,unidades_locais,"H Transporte, armazenagem e correio",91
+2907202,Casa Nova (BA),2022,unidades_locais,I Alojamento e alimentação,23
+2907202,Casa Nova (BA),2022,unidades_locais,J Informação e comunicação,14
+2907202,Casa Nova (BA),2022,unidades_locais,"K Atividades financeiras, de seguros e serviços relacionados",8
+2907202,Casa Nova (BA),2022,unidades_locais,L Atividades imobiliárias,6
+2907202,Casa Nova (BA),2022,unidades_locais,"M Atividades profissionais, científicas e técnicas",34
+2907202,Casa Nova (BA),2022,unidades_locais,N Atividades administrativas e serviços complementares,43
+2907202,Casa Nova (BA),2022,unidades_locais,"O Administração pública, defesa e seguridade social",9
+2907202,Casa Nova (BA),2022,unidades_locais,P Educação,49
+2907202,Casa Nova (BA),2022,unidades_locais,Q Saúde humana e serviços sociais,36
+2907202,Casa Nova (BA),2022,unidades_locais,"R Artes, cultura, esporte e recreação",9
+2907202,Casa Nova (BA),2022,unidades_locais,S Outras atividades de serviços,211
+2907202,Casa Nova (BA),2022,unidades_locais,T Serviços domésticos,0
+2907202,Casa Nova (BA),2022,unidades_locais,U Organismos internacionais e outras instituições extraterritoriais,0
+2907202,Casa Nova (BA),2023,unidades_locais,Total,1306
+2907202,Casa Nova (BA),2023,unidades_locais,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",97
+2907202,Casa Nova (BA),2023,unidades_locais,B Indústrias extrativas,14
+2907202,Casa Nova (BA),2023,unidades_locais,C Indústrias de transformação,35
+2907202,Casa Nova (BA),2023,unidades_locais,D Eletricidade e gás,23
+2907202,Casa Nova (BA),2023,unidades_locais,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",3
+2907202,Casa Nova (BA),2023,unidades_locais,F Construção,40
+2907202,Casa Nova (BA),2023,unidades_locais,G Comércio; reparação de veículos automotores e motocicletas,509
+2907202,Casa Nova (BA),2023,unidades_locais,"H Transporte, armazenagem e correio",98
+2907202,Casa Nova (BA),2023,unidades_locais,I Alojamento e alimentação,29
+2907202,Casa Nova (BA),2023,unidades_locais,J Informação e comunicação,18
+2907202,Casa Nova (BA),2023,unidades_locais,"K Atividades financeiras, de seguros e serviços relacionados",10
+2907202,Casa Nova (BA),2023,unidades_locais,L Atividades imobiliárias,6
+2907202,Casa Nova (BA),2023,unidades_locais,"M Atividades profissionais, científicas e técnicas",36
+2907202,Casa Nova (BA),2023,unidades_locais,N Atividades administrativas e serviços complementares,46
+2907202,Casa Nova (BA),2023,unidades_locais,"O Administração pública, defesa e seguridade social",9
+2907202,Casa Nova (BA),2023,unidades_locais,P Educação,64
+2907202,Casa Nova (BA),2023,unidades_locais,Q Saúde humana e serviços sociais,37
+2907202,Casa Nova (BA),2023,unidades_locais,"R Artes, cultura, esporte e recreação",11
+2907202,Casa Nova (BA),2023,unidades_locais,S Outras atividades de serviços,221
+2907202,Casa Nova (BA),2023,unidades_locais,T Serviços domésticos,0
+2907202,Casa Nova (BA),2023,unidades_locais,U Organismos internacionais e outras instituições extraterritoriais,0
+2907202,Casa Nova (BA),2024,unidades_locais,Total,1394
+2907202,Casa Nova (BA),2024,unidades_locais,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",115
+2907202,Casa Nova (BA),2024,unidades_locais,B Indústrias extrativas,16
+2907202,Casa Nova (BA),2024,unidades_locais,C Indústrias de transformação,34
+2907202,Casa Nova (BA),2024,unidades_locais,D Eletricidade e gás,21
+2907202,Casa Nova (BA),2024,unidades_locais,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",4
+2907202,Casa Nova (BA),2024,unidades_locais,F Construção,47
+2907202,Casa Nova (BA),2024,unidades_locais,G Comércio; reparação de veículos automotores e motocicletas,538
+2907202,Casa Nova (BA),2024,unidades_locais,"H Transporte, armazenagem e correio",98
+2907202,Casa Nova (BA),2024,unidades_locais,I Alojamento e alimentação,34
+2907202,Casa Nova (BA),2024,unidades_locais,J Informação e comunicação,21
+2907202,Casa Nova (BA),2024,unidades_locais,"K Atividades financeiras, de seguros e serviços relacionados",10
+2907202,Casa Nova (BA),2024,unidades_locais,L Atividades imobiliárias,5
+2907202,Casa Nova (BA),2024,unidades_locais,"M Atividades profissionais, científicas e técnicas",31
+2907202,Casa Nova (BA),2024,unidades_locais,N Atividades administrativas e serviços complementares,49
+2907202,Casa Nova (BA),2024,unidades_locais,"O Administração pública, defesa e seguridade social",9
+2907202,Casa Nova (BA),2024,unidades_locais,P Educação,61
+2907202,Casa Nova (BA),2024,unidades_locais,Q Saúde humana e serviços sociais,45
+2907202,Casa Nova (BA),2024,unidades_locais,"R Artes, cultura, esporte e recreação",11
+2907202,Casa Nova (BA),2024,unidades_locais,S Outras atividades de serviços,245
+2907202,Casa Nova (BA),2024,unidades_locais,T Serviços domésticos,0
+2907202,Casa Nova (BA),2024,unidades_locais,U Organismos internacionais e outras instituições extraterritoriais,0
+2907202,Casa Nova (BA),2022,pessoal_ocupado,Total,12072
+2907202,Casa Nova (BA),2022,pessoal_ocupado,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",6218
+2907202,Casa Nova (BA),2022,pessoal_ocupado,B Indústrias extrativas,27
+2907202,Casa Nova (BA),2022,pessoal_ocupado,C Indústrias de transformação,280
+2907202,Casa Nova (BA),2022,pessoal_ocupado,D Eletricidade e gás,22
+2907202,Casa Nova (BA),2022,pessoal_ocupado,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",74
+2907202,Casa Nova (BA),2022,pessoal_ocupado,F Construção,54
+2907202,Casa Nova (BA),2022,pessoal_ocupado,G Comércio; reparação de veículos automotores e motocicletas,1340
+2907202,Casa Nova (BA),2022,pessoal_ocupado,"H Transporte, armazenagem e correio",186
+2907202,Casa Nova (BA),2022,pessoal_ocupado,I Alojamento e alimentação,89
+2907202,Casa Nova (BA),2022,pessoal_ocupado,J Informação e comunicação,34
+2907202,Casa Nova (BA),2022,pessoal_ocupado,"K Atividades financeiras, de seguros e serviços relacionados",45
+2907202,Casa Nova (BA),2022,pessoal_ocupado,L Atividades imobiliárias,14
+2907202,Casa Nova (BA),2022,pessoal_ocupado,"M Atividades profissionais, científicas e técnicas",73
+2907202,Casa Nova (BA),2022,pessoal_ocupado,N Atividades administrativas e serviços complementares,112
+2907202,Casa Nova (BA),2022,pessoal_ocupado,"O Administração pública, defesa e seguridade social",2922
+2907202,Casa Nova (BA),2022,pessoal_ocupado,P Educação,133
+2907202,Casa Nova (BA),2022,pessoal_ocupado,Q Saúde humana e serviços sociais,191
+2907202,Casa Nova (BA),2022,pessoal_ocupado,"R Artes, cultura, esporte e recreação",21
+2907202,Casa Nova (BA),2022,pessoal_ocupado,S Outras atividades de serviços,237
+2907202,Casa Nova (BA),2022,pessoal_ocupado,T Serviços domésticos,0
+2907202,Casa Nova (BA),2022,pessoal_ocupado,U Organismos internacionais e outras instituições extraterritoriais,0
+2907202,Casa Nova (BA),2023,pessoal_ocupado,Total,9400
+2907202,Casa Nova (BA),2023,pessoal_ocupado,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",6187
+2907202,Casa Nova (BA),2023,pessoal_ocupado,B Indústrias extrativas,67
+2907202,Casa Nova (BA),2023,pessoal_ocupado,C Indústrias de transformação,308
+2907202,Casa Nova (BA),2023,pessoal_ocupado,D Eletricidade e gás,19
+2907202,Casa Nova (BA),2023,pessoal_ocupado,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",70
+2907202,Casa Nova (BA),2023,pessoal_ocupado,F Construção,60
+2907202,Casa Nova (BA),2023,pessoal_ocupado,G Comércio; reparação de veículos automotores e motocicletas,1387
+2907202,Casa Nova (BA),2023,pessoal_ocupado,"H Transporte, armazenagem e correio",198
+2907202,Casa Nova (BA),2023,pessoal_ocupado,I Alojamento e alimentação,98
+2907202,Casa Nova (BA),2023,pessoal_ocupado,J Informação e comunicação,34
+2907202,Casa Nova (BA),2023,pessoal_ocupado,"K Atividades financeiras, de seguros e serviços relacionados",45
+2907202,Casa Nova (BA),2023,pessoal_ocupado,L Atividades imobiliárias,13
+2907202,Casa Nova (BA),2023,pessoal_ocupado,"M Atividades profissionais, científicas e técnicas",92
+2907202,Casa Nova (BA),2023,pessoal_ocupado,N Atividades administrativas e serviços complementares,98
+2907202,Casa Nova (BA),2023,pessoal_ocupado,"O Administração pública, defesa e seguridade social",65
+2907202,Casa Nova (BA),2023,pessoal_ocupado,P Educação,159
+2907202,Casa Nova (BA),2023,pessoal_ocupado,Q Saúde humana e serviços sociais,234
+2907202,Casa Nova (BA),2023,pessoal_ocupado,"R Artes, cultura, esporte e recreação",27
+2907202,Casa Nova (BA),2023,pessoal_ocupado,S Outras atividades de serviços,239
+2907202,Casa Nova (BA),2023,pessoal_ocupado,T Serviços domésticos,0
+2907202,Casa Nova (BA),2023,pessoal_ocupado,U Organismos internacionais e outras instituições extraterritoriais,0
+2907202,Casa Nova (BA),2024,pessoal_ocupado,Total,13240
+2907202,Casa Nova (BA),2024,pessoal_ocupado,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",6750
+2907202,Casa Nova (BA),2024,pessoal_ocupado,B Indústrias extrativas,37
+2907202,Casa Nova (BA),2024,pessoal_ocupado,C Indústrias de transformação,293
+2907202,Casa Nova (BA),2024,pessoal_ocupado,D Eletricidade e gás,15
+2907202,Casa Nova (BA),2024,pessoal_ocupado,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",63
+2907202,Casa Nova (BA),2024,pessoal_ocupado,F Construção,63
+2907202,Casa Nova (BA),2024,pessoal_ocupado,G Comércio; reparação de veículos automotores e motocicletas,1514
+2907202,Casa Nova (BA),2024,pessoal_ocupado,"H Transporte, armazenagem e correio",191
+2907202,Casa Nova (BA),2024,pessoal_ocupado,I Alojamento e alimentação,95
+2907202,Casa Nova (BA),2024,pessoal_ocupado,J Informação e comunicação,36
+2907202,Casa Nova (BA),2024,pessoal_ocupado,"K Atividades financeiras, de seguros e serviços relacionados",56
+2907202,Casa Nova (BA),2024,pessoal_ocupado,L Atividades imobiliárias,13
+2907202,Casa Nova (BA),2024,pessoal_ocupado,"M Atividades profissionais, científicas e técnicas",103
+2907202,Casa Nova (BA),2024,pessoal_ocupado,N Atividades administrativas e serviços complementares,117
+2907202,Casa Nova (BA),2024,pessoal_ocupado,"O Administração pública, defesa e seguridade social",3191
+2907202,Casa Nova (BA),2024,pessoal_ocupado,P Educação,168
+2907202,Casa Nova (BA),2024,pessoal_ocupado,Q Saúde humana e serviços sociais,263
+2907202,Casa Nova (BA),2024,pessoal_ocupado,"R Artes, cultura, esporte e recreação",25
+2907202,Casa Nova (BA),2024,pessoal_ocupado,S Outras atividades de serviços,247
+2907202,Casa Nova (BA),2024,pessoal_ocupado,T Serviços domésticos,0
+2907202,Casa Nova (BA),2024,pessoal_ocupado,U Organismos internacionais e outras instituições extraterritoriais,0
+1,Brasil,2022,unidades_locais,Total,10607102
+1,Brasil,2022,unidades_locais,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",745388
+1,Brasil,2022,unidades_locais,B Indústrias extrativas,26802
+1,Brasil,2022,unidades_locais,C Indústrias de transformação,628792
+1,Brasil,2022,unidades_locais,D Eletricidade e gás,20646
+1,Brasil,2022,unidades_locais,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",27987
+1,Brasil,2022,unidades_locais,F Construção,562701
+1,Brasil,2022,unidades_locais,G Comércio; reparação de veículos automotores e motocicletas,3130254
+1,Brasil,2022,unidades_locais,"H Transporte, armazenagem e correio",419399
+1,Brasil,2022,unidades_locais,I Alojamento e alimentação,476734
+1,Brasil,2022,unidades_locais,J Informação e comunicação,338029
+1,Brasil,2022,unidades_locais,"K Atividades financeiras, de seguros e serviços relacionados",319939
+1,Brasil,2022,unidades_locais,L Atividades imobiliárias,244575
+1,Brasil,2022,unidades_locais,"M Atividades profissionais, científicas e técnicas",806722
+1,Brasil,2022,unidades_locais,N Atividades administrativas e serviços complementares,969476
+1,Brasil,2022,unidades_locais,"O Administração pública, defesa e seguridade social",54751
+1,Brasil,2022,unidades_locais,P Educação,371519
+1,Brasil,2022,unidades_locais,Q Saúde humana e serviços sociais,580270
+1,Brasil,2022,unidades_locais,"R Artes, cultura, esporte e recreação",156463
+1,Brasil,2022,unidades_locais,S Outras atividades de serviços,726102
+1,Brasil,2022,unidades_locais,T Serviços domésticos,0
+1,Brasil,2022,unidades_locais,U Organismos internacionais e outras instituições extraterritoriais,553
+1,Brasil,2023,unidades_locais,Total,11255614
+1,Brasil,2023,unidades_locais,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",774401
+1,Brasil,2023,unidades_locais,B Indústrias extrativas,27379
+1,Brasil,2023,unidades_locais,C Indústrias de transformação,652067
+1,Brasil,2023,unidades_locais,D Eletricidade e gás,22077
+1,Brasil,2023,unidades_locais,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",30321
+1,Brasil,2023,unidades_locais,F Construção,602579
+1,Brasil,2023,unidades_locais,G Comércio; reparação de veículos automotores e motocicletas,3243821
+1,Brasil,2023,unidades_locais,"H Transporte, armazenagem e correio",434603
+1,Brasil,2023,unidades_locais,I Alojamento e alimentação,501489
+1,Brasil,2023,unidades_locais,J Informação e comunicação,365127
+1,Brasil,2023,unidades_locais,"K Atividades financeiras, de seguros e serviços relacionados",349238
+1,Brasil,2023,unidades_locais,L Atividades imobiliárias,269565
+1,Brasil,2023,unidades_locais,"M Atividades profissionais, científicas e técnicas",896518
+1,Brasil,2023,unidades_locais,N Atividades administrativas e serviços complementares,1040707
+1,Brasil,2023,unidades_locais,"O Administração pública, defesa e seguridade social",60448
+1,Brasil,2023,unidades_locais,P Educação,395176
+1,Brasil,2023,unidades_locais,Q Saúde humana e serviços sociais,667403
+1,Brasil,2023,unidades_locais,"R Artes, cultura, esporte e recreação",170533
+1,Brasil,2023,unidades_locais,S Outras atividades de serviços,751600
+1,Brasil,2023,unidades_locais,T Serviços domésticos,0
+1,Brasil,2023,unidades_locais,U Organismos internacionais e outras instituições extraterritoriais,562
+1,Brasil,2024,unidades_locais,Total,11867005
+1,Brasil,2024,unidades_locais,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",801850
+1,Brasil,2024,unidades_locais,B Indústrias extrativas,28185
+1,Brasil,2024,unidades_locais,C Indústrias de transformação,668372
+1,Brasil,2024,unidades_locais,D Eletricidade e gás,22671
+1,Brasil,2024,unidades_locais,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",31136
+1,Brasil,2024,unidades_locais,F Construção,642938
+1,Brasil,2024,unidades_locais,G Comércio; reparação de veículos automotores e motocicletas,3319852
+1,Brasil,2024,unidades_locais,"H Transporte, armazenagem e correio",447165
+1,Brasil,2024,unidades_locais,I Alojamento e alimentação,508386
+1,Brasil,2024,unidades_locais,J Informação e comunicação,400109
+1,Brasil,2024,unidades_locais,"K Atividades financeiras, de seguros e serviços relacionados",383869
+1,Brasil,2024,unidades_locais,L Atividades imobiliárias,297449
+1,Brasil,2024,unidades_locais,"M Atividades profissionais, científicas e técnicas",983054
+1,Brasil,2024,unidades_locais,N Atividades administrativas e serviços complementares,1116860
+1,Brasil,2024,unidades_locais,"O Administração pública, defesa e seguridade social",62129
+1,Brasil,2024,unidades_locais,P Educação,380983
+1,Brasil,2024,unidades_locais,Q Saúde humana e serviços sociais,763498
+1,Brasil,2024,unidades_locais,"R Artes, cultura, esporte e recreação",183819
+1,Brasil,2024,unidades_locais,S Outras atividades de serviços,824155
+1,Brasil,2024,unidades_locais,T Serviços domésticos,0
+1,Brasil,2024,unidades_locais,U Organismos internacionais e outras instituições extraterritoriais,525
+1,Brasil,2022,pessoal_ocupado,Total,62746860
+1,Brasil,2022,pessoal_ocupado,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",1211986
+1,Brasil,2022,pessoal_ocupado,B Indústrias extrativas,266417
+1,Brasil,2022,pessoal_ocupado,C Indústrias de transformação,8402173
+1,Brasil,2022,pessoal_ocupado,D Eletricidade e gás,162894
+1,Brasil,2022,pessoal_ocupado,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",477347
+1,Brasil,2022,pessoal_ocupado,F Construção,2992106
+1,Brasil,2022,pessoal_ocupado,G Comércio; reparação de veículos automotores e motocicletas,13260262
+1,Brasil,2022,pessoal_ocupado,"H Transporte, armazenagem e correio",2998262
+1,Brasil,2022,pessoal_ocupado,I Alojamento e alimentação,2490103
+1,Brasil,2022,pessoal_ocupado,J Informação e comunicação,1609097
+1,Brasil,2022,pessoal_ocupado,"K Atividades financeiras, de seguros e serviços relacionados",1503363
+1,Brasil,2022,pessoal_ocupado,L Atividades imobiliárias,660231
+1,Brasil,2022,pessoal_ocupado,"M Atividades profissionais, científicas e técnicas",2479036
+1,Brasil,2022,pessoal_ocupado,N Atividades administrativas e serviços complementares,6193530
+1,Brasil,2022,pessoal_ocupado,"O Administração pública, defesa e seguridade social",7772049
+1,Brasil,2022,pessoal_ocupado,P Educação,3863161
+1,Brasil,2022,pessoal_ocupado,Q Saúde humana e serviços sociais,4491912
+1,Brasil,2022,pessoal_ocupado,"R Artes, cultura, esporte e recreação",487881
+1,Brasil,2022,pessoal_ocupado,S Outras atividades de serviços,1422182
+1,Brasil,2022,pessoal_ocupado,T Serviços domésticos,0
+1,Brasil,2022,pessoal_ocupado,U Organismos internacionais e outras instituições extraterritoriais,2868
+1,Brasil,2023,pessoal_ocupado,Total,65962128
+1,Brasil,2023,pessoal_ocupado,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",1262174
+1,Brasil,2023,pessoal_ocupado,B Indústrias extrativas,280106
+1,Brasil,2023,pessoal_ocupado,C Indústrias de transformação,8499044
+1,Brasil,2023,pessoal_ocupado,D Eletricidade e gás,165081
+1,Brasil,2023,pessoal_ocupado,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",491857
+1,Brasil,2023,pessoal_ocupado,F Construção,3121328
+1,Brasil,2023,pessoal_ocupado,G Comércio; reparação de veículos automotores e motocicletas,13581760
+1,Brasil,2023,pessoal_ocupado,"H Transporte, armazenagem e correio",3141946
+1,Brasil,2023,pessoal_ocupado,I Alojamento e alimentação,2644886
+1,Brasil,2023,pessoal_ocupado,J Informação e comunicação,1667732
+1,Brasil,2023,pessoal_ocupado,"K Atividades financeiras, de seguros e serviços relacionados",1586142
+1,Brasil,2023,pessoal_ocupado,L Atividades imobiliárias,722749
+1,Brasil,2023,pessoal_ocupado,"M Atividades profissionais, científicas e técnicas",2680501
+1,Brasil,2023,pessoal_ocupado,N Atividades administrativas e serviços complementares,6652572
+1,Brasil,2023,pessoal_ocupado,"O Administração pública, defesa e seguridade social",8449542
+1,Brasil,2023,pessoal_ocupado,P Educação,4227336
+1,Brasil,2023,pessoal_ocupado,Q Saúde humana e serviços sociais,4763998
+1,Brasil,2023,pessoal_ocupado,"R Artes, cultura, esporte e recreação",530911
+1,Brasil,2023,pessoal_ocupado,S Outras atividades de serviços,1488260
+1,Brasil,2023,pessoal_ocupado,T Serviços domésticos,0
+1,Brasil,2023,pessoal_ocupado,U Organismos internacionais e outras instituições extraterritoriais,4203
+1,Brasil,2024,pessoal_ocupado,Total,68039600
+1,Brasil,2024,pessoal_ocupado,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",1300521
+1,Brasil,2024,pessoal_ocupado,B Indústrias extrativas,294121
+1,Brasil,2024,pessoal_ocupado,C Indústrias de transformação,8742156
+1,Brasil,2024,pessoal_ocupado,D Eletricidade e gás,168718
+1,Brasil,2024,pessoal_ocupado,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",502270
+1,Brasil,2024,pessoal_ocupado,F Construção,3180642
+1,Brasil,2024,pessoal_ocupado,G Comércio; reparação de veículos automotores e motocicletas,13685011
+1,Brasil,2024,pessoal_ocupado,"H Transporte, armazenagem e correio",3221398
+1,Brasil,2024,pessoal_ocupado,I Alojamento e alimentação,2690197
+1,Brasil,2024,pessoal_ocupado,J Informação e comunicação,1722805
+1,Brasil,2024,pessoal_ocupado,"K Atividades financeiras, de seguros e serviços relacionados",1664667
+1,Brasil,2024,pessoal_ocupado,L Atividades imobiliárias,758778
+1,Brasil,2024,pessoal_ocupado,"M Atividades profissionais, científicas e técnicas",2836129
+1,Brasil,2024,pessoal_ocupado,N Atividades administrativas e serviços complementares,6986727
+1,Brasil,2024,pessoal_ocupado,"O Administração pública, defesa e seguridade social",8745439
+1,Brasil,2024,pessoal_ocupado,P Educação,4375133
+1,Brasil,2024,pessoal_ocupado,Q Saúde humana e serviços sociais,5029843
+1,Brasil,2024,pessoal_ocupado,"R Artes, cultura, esporte e recreação",569734
+1,Brasil,2024,pessoal_ocupado,S Outras atividades de serviços,1561120
+1,Brasil,2024,pessoal_ocupado,T Serviços domésticos,0
+1,Brasil,2024,pessoal_ocupado,U Organismos internacionais e outras instituições extraterritoriais,4191

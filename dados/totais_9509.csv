@@ -1,0 +1,55 @@
+codigo_local,local,ano,variavel,valor
+2611101,Petrolina (PE),2022,unidades_locais,13467
+2611101,Petrolina (PE),2023,unidades_locais,14672
+2611101,Petrolina (PE),2024,unidades_locais,15881
+2611101,Petrolina (PE),2022,pessoal_ocupado,90148
+2611101,Petrolina (PE),2023,pessoal_ocupado,92944
+2611101,Petrolina (PE),2024,pessoal_ocupado,101540
+2608750,Lagoa Grande (PE),2022,unidades_locais,518
+2608750,Lagoa Grande (PE),2023,unidades_locais,533
+2608750,Lagoa Grande (PE),2024,unidades_locais,544
+2608750,Lagoa Grande (PE),2022,pessoal_ocupado,3905
+2608750,Lagoa Grande (PE),2023,pessoal_ocupado,4204
+2608750,Lagoa Grande (PE),2024,pessoal_ocupado,4624
+2612604,Santa Maria da Boa Vista (PE),2022,unidades_locais,625
+2612604,Santa Maria da Boa Vista (PE),2023,unidades_locais,616
+2612604,Santa Maria da Boa Vista (PE),2024,unidades_locais,669
+2612604,Santa Maria da Boa Vista (PE),2022,pessoal_ocupado,3683
+2612604,Santa Maria da Boa Vista (PE),2023,pessoal_ocupado,3535
+2612604,Santa Maria da Boa Vista (PE),2024,pessoal_ocupado,3657
+2609808,Orocó (PE),2022,unidades_locais,219
+2609808,Orocó (PE),2023,unidades_locais,224
+2609808,Orocó (PE),2024,unidades_locais,241
+2609808,Orocó (PE),2022,pessoal_ocupado,944
+2609808,Orocó (PE),2023,pessoal_ocupado,1380
+2609808,Orocó (PE),2024,pessoal_ocupado,1512
+2918407,Juazeiro (BA),2022,unidades_locais,7324
+2918407,Juazeiro (BA),2023,unidades_locais,7856
+2918407,Juazeiro (BA),2024,unidades_locais,8182
+2918407,Juazeiro (BA),2022,pessoal_ocupado,48657
+2918407,Juazeiro (BA),2023,pessoal_ocupado,51427
+2918407,Juazeiro (BA),2024,pessoal_ocupado,52310
+2907202,Casa Nova (BA),2022,unidades_locais,1222
+2907202,Casa Nova (BA),2023,unidades_locais,1306
+2907202,Casa Nova (BA),2024,unidades_locais,1394
+2907202,Casa Nova (BA),2022,pessoal_ocupado,12072
+2907202,Casa Nova (BA),2023,pessoal_ocupado,9400
+2907202,Casa Nova (BA),2024,pessoal_ocupado,13240
+2909901,Curaçá (BA),2022,unidades_locais,723
+2909901,Curaçá (BA),2023,unidades_locais,768
+2909901,Curaçá (BA),2024,unidades_locais,788
+2909901,Curaçá (BA),2022,pessoal_ocupado,2935
+2909901,Curaçá (BA),2023,pessoal_ocupado,2801
+2909901,Curaçá (BA),2024,pessoal_ocupado,2742
+2930774,Sobradinho (BA),2022,unidades_locais,565
+2930774,Sobradinho (BA),2023,unidades_locais,569
+2930774,Sobradinho (BA),2024,unidades_locais,568
+2930774,Sobradinho (BA),2022,pessoal_ocupado,3591
+2930774,Sobradinho (BA),2023,pessoal_ocupado,3540
+2930774,Sobradinho (BA),2024,pessoal_ocupado,4018
+1,Brasil,2022,unidades_locais,10607102
+1,Brasil,2023,unidades_locais,11255614
+1,Brasil,2024,unidades_locais,11867005
+1,Brasil,2022,pessoal_ocupado,62746860
+1,Brasil,2023,pessoal_ocupado,65962128
+1,Brasil,2024,pessoal_ocupado,68039600
